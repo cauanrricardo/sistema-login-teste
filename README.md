@@ -4,7 +4,7 @@ Este é um projeto simples de **sistema de login** feito com **HTML, CSS e JavaS
 O objetivo é criar um ambiente para **casos de teste**.
 
 ---
-
+- [Clique aqui para acessa o Laboratório](https://cauanrricardo.github.io/sistema-login-teste/) 
 ##  Funcionalidades
 - Tela de login estilizada em **dark mode**
 - Validação de 2 usuarios e senhas, já fixos
